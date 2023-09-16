@@ -8,7 +8,5 @@ github = "https://github.com/ODosari/UpdatesTerminalCommandsRust"
 >>>>>>> 2fbc2ce (Initial commit)
 edition = "2021"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
 [dependencies]
 ansi_term = "0.12.1"
