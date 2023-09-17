@@ -1,3 +1,8 @@
+// Name = "updates_commands_rust"
+// Version = "0.1.0"
+// By = "Obaid Aldosari"
+// GitHub = "https://github.com/ODosari/UpdatesTerminalCommandsRust"
+
 extern crate ansi_term;
 
 use std::process::Command;
