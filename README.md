@@ -1,4 +1,4 @@
-# Updates Commands in Rust
+# Updates Multiple Terminal Commands in Rust
 
 ## Overview
 
